@@ -1,0 +1,5 @@
+name: PentaCraftAuth
+main: com.pentacraft.auth.Main
+version: 0.1
+commands:
+  login:
